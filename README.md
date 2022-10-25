@@ -5,9 +5,9 @@
 - 📫 You reach me via email - sheizenger@gmail.com or via LinkedIn
 I've done sevaral projects:
 1. While studying at Yandex.Practicum as Data Scientist:
-<a href="https://github.com/SilantevYan/Yandex_practicum-data-science-projects"><img src="https://camo.githubusercontent.com/a2ac81a35fa82501f84d6ee52f4dedaffc233f32d5dfabe0a1074311a9be5be7/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a75565030577745574f747048733430452e706e67" alt=""></a>
+<a href="https://github.com/SilantevYan/Yandex_practicum-data-science-projects"><img width="300" height="150" src="https://camo.githubusercontent.com/a2ac81a35fa82501f84d6ee52f4dedaffc233f32d5dfabe0a1074311a9be5be7/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a75565030577745574f747048733430452e706e67" alt=""></a>
 2. Deep Learning projects
-<a href="https://github.com/SilantevYan/Deep_Learning"><img src="https://www.mesonstechnologies.com/images/deep-learning.jpg" alt=""></a>
+<a href="https://github.com/SilantevYan/Deep_Learning"><img width="300" height="150" src="https://www.mesonstechnologies.com/images/deep-learning.jpg" alt=""></a>
 <!---
 SilantevYan/SilantevYan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
