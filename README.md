@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python and keep up with Data Scientist courses
 - 💞️Looking to collaborate on any Deep Learning projects
 - 📫 You reach me via email - sheizenger@gmail.com or via LinkedIn
+
 I've done sevaral projects:
 1. While studying at Yandex.Practicum as Data Scientist:
 
