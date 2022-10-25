@@ -9,7 +9,7 @@ I've done sevaral projects:
 <table width=100% valign=top align=center border=none>
 <tr>
  <td>
-  1. While studying at Yandex.Practicum </br> as Data Scientist</p>
+  1. While studying as Data Scientist</p>
  </td>
  <td>
   2. Deep Learning projects</p>
@@ -18,7 +18,7 @@ I've done sevaral projects:
  </tr>
 <tr>
  <td>
- <a href="https://github.com/SilantevYan/Yandex_practicum-data-science-projects"><img width="320" height="200" src="https://camo.githubusercontent.com/a2ac81a35fa82501f84d6ee52f4dedaffc233f32d5dfabe0a1074311a9be5be7/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a75565030577745574f747048733430452e706e67" alt=""></a>
+ <a href="https://github.com/SilantevYan/Yandex_practicum-data-science-projects"><img width="320" height="200" src="https://d1m75rqqgidzqn.cloudfront.net/wp-data/2019/09/11134058/What-is-data-science-2.jpg" alt=""></a>
 </td>
 <td>
  <a href="https://github.com/SilantevYan/Deep_Learning"><img width="320" height="200" src="https://www.mesonstechnologies.com/images/deep-learning.jpg" alt=""></a>
