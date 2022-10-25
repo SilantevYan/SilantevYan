@@ -9,10 +9,10 @@ I've done sevaral projects:
 <table width=100% valign=top align=center border=none>
 <tr>
  <td>
-  1. While studying as Data Scientist</p>
+  Data Science projects</p>
  </td>
  <td>
-  2. Deep Learning projects</p>
+  Deep Learning projects</p>
   </td>
 
  </tr>
