@@ -8,3 +8,4 @@
 SilantevYan/SilantevYan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<a href= 'https://drive.google.com/file/d/1D5sBPmJgdqs5OD3q_WZSP7h4bj_IXJNH/view?usp=sharing'>My resume</a>
