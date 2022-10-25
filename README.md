@@ -11,12 +11,8 @@ I've done sevaral projects:
  </tr>
 
 </tr>
-<div within = 50%><p align='left'>2. Deep Learning projects</p>
-
-<a href="https://github.com/SilantevYan/Deep_Learning"><img width="320" height="200" src="https://www.mesonstechnologies.com/images/deep-learning.jpg" alt=""></a>
-
-</div>
-</div>
-
+<tr><td2. Deep Learning projects</p></td>
+<td><a href="https://github.com/SilantevYan/Deep_Learning"><img width="320" height="200" src="https://www.mesonstechnologies.com/images/deep-learning.jpg" alt=""></a></td>
+</tr>
 </br>
 <a href= 'https://drive.google.com/file/d/1D5sBPmJgdqs5OD3q_WZSP7h4bj_IXJNH/view?usp=sharing'>MY RESUME</a>
