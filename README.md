@@ -3,7 +3,7 @@ I’m interested in Neural Networks, deep and machine learning, NLP and CV netwo
 I’m currently learning Python and improving my skills in ML/DL fileds</br>
 Looking to collaborate on any Deep Learning projects</br>
 📫 You reach me via email - sheizenger@gmail.com or via [LinkedIn](https://www.linkedin.com/in/iansilantev/)</br>
-</br></br> <a href= 'https://drive.google.com/file/d/1D5sBPmJgdqs5OD3q_WZSP7h4bj_IXJNH/view?usp=sharing'>MY RESUME</a>
+</br><a href= 'https://drive.google.com/file/d/1D5sBPmJgdqs5OD3q_WZSP7h4bj_IXJNH/view?usp=sharing'>MY RESUME</a>
 
 Projects that I've done already:
 <table width=100% valign=top align=center border=none>
