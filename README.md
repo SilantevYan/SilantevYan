@@ -9,7 +9,7 @@ I've done sevaral projects:
 <table width=100% valign=top align=center border=none>
 <tr>
  <td>
-  1. While studying at Yandex.Practicum as Data Scientist</p>
+  1. While studying at Yandex.Practicum </br> as Data Scientist</p>
  </td>
  <td>
   2. Deep Learning projects</p>
