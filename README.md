@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SilantevYan
 - 👀 I’m interested in Neural Networks, deep and machine learning, NLP and CV networks
-- 🌱 I’m currently learning Python and keep up with Data Scientist courses
+- 🌱 I’m currently learning Python and improving my skills in ML/DL fileds
 - 💞️Looking to collaborate on any Deep Learning projects
 - 📫 You reach me via email - sheizenger@gmail.com or via LinkedIn
 - <a href= 'https://drive.google.com/file/d/1D5sBPmJgdqs5OD3q_WZSP7h4bj_IXJNH/view?usp=sharing'>MY RESUME</a>
