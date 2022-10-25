@@ -8,10 +8,10 @@
 I've done sevaral projects:
 <table width=100% valign=top align=center border=none>
 <tr>
- <td>
+ <td align=center>
   Data Science projects</p>
  </td>
- <td>
+ <td align=center>
   Deep Learning projects</p>
   </td>
 
