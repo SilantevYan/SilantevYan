@@ -9,10 +9,10 @@ Projects that I've done already:
 <table width=100% valign=top align=center border=none>
 <tr>
  <td align=center>
-  Data Science projects</p>
+  Data Science Projects</p>
  </td>
  <td align=center>
-  Deep Learning projects</p>
+  Deep Learning Projects</p>
   </td>
 
  </tr>
